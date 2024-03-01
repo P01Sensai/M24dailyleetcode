@@ -1,2 +1,2 @@
 # M24dailyleetcode
-here will be the solution and explation of daily leetcode problems of MARCH24
+here will be the solution and explanation of daily leetcode problems of MARCH24
